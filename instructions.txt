@@ -1,0 +1,27 @@
+----------  HOW TO RUN:   ----------
+
+1. Make sure all .java files, scores.txt (optional), and The Escapists - Center Perks.wav are
+    in the same directory
+2. Compile all .java files using javac
+3. Run the command java Main
+
+
+----------  CONTROLS:   ----------
+
+A: Move paddle to the left
+D: Move paddle to the right
+Space bar: Release the ball (only at the start of the game)
+
+
+----------  GAMEPLAY:   ----------
+
+* To win the game, the player must destroy all the bricks on the screen (i.e., rack up 500 points)
+* The player loses when the ball reaches the bottom of the screen
+
+
+----------  CREDITS:   ----------
+
+Canaan Matias (author)
+Jack Liu
+Michael Ashe
+Mouldy Toof Studios and Team 17 (music)
